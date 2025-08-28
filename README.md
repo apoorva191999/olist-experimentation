@@ -8,7 +8,4 @@ This repository contains code for simulating a Randomized Control Trial (RCT) us
 - Experiment design: identifying target audience, sample size calculation, stratification
 - Balance checks for control/test groups
 
-## Structure
-- `notebooks/` : Jupyter notebooks for step-by-step analysis
-- `requirements.txt` : Python dependencies
 
